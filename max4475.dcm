@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX4475
+D Op Amp.
+K AmpliOp
+$ENDCMP
+#
+#End Doc Library
